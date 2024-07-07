@@ -1,0 +1,14 @@
+apa aja yang butuh:
+  ☐ linter
+  ☐ dbdocs
+  ☐ migration
+  ☐ form validation
+  ☐ json
+  ☐ models
+  ☐ routing
+  ☐ jwt token
+  ☐ acl (role, permission)
+  ☐ pdf export
+  ☐ excel export
+  ☐ unit testing
+  ☐ swagger/postman api doc

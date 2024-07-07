@@ -1,0 +1,35 @@
+Project Groozeer{
+  database_type: 'PostgreSQL'
+  note: '''
+  #Grozeer Database
+  **Markdown Here**
+  '''
+}
+
+Table users {
+  id int [pk, increment]
+}
+
+Table customers {
+  id int [pk, increment]
+}
+
+Table vendors {
+  id int [pk, increment]
+}
+
+Table peoples {
+  id int [pk, increment]
+}
+
+Table addresses {
+  id int [pk, increment]
+}
+
+Table provinces {
+  id int [pk, increment]
+}
+
+Table cities {
+  id int [pk, increment]
+}
